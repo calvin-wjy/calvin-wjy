@@ -1,6 +1,6 @@
 ### Hello Everyone! 👋
 
-My name is Calvin and I love to explore and learn new things. Currently, I am employed as Software Engineer at [@Traveloka](https://github.com/traveloka). In my free time i like to do sports to refresh my body and my mind, also to love to build software that can help ease people’s day.
+My name is Calvin and I love to explore and learn new things. Currently, I am employed as Software Engineer at [@Traveloka](https://github.com/traveloka). In my free time, I like to do sports to refresh my body and my mind, also love to build software that can help ease people’s day just by a little.
 
 <img src="https://github-readme-stats.vercel.app/api?username=calvin-wjy&show_icons=true" title="Calvin's GitHub Status" />
 
@@ -46,7 +46,7 @@ Here are some tech stacks that I've used:
 
 ---
 
-Happy to meet and connect with you, please reach me out in one of these platforms below:
+I am always happy to connect with new people, feel free to reach me out in one of these platforms below:
 <p>
     <a href="https://github.com/calvin-wjy" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -65,3 +65,5 @@ Happy to meet and connect with you, please reach me out in one of these platform
 <div id="stats" style="display: none">
   <img src="https://komarev.com/ghpvc/?username=calvin-wjy&color=blue"/>
 </div>
+
+Cheers! 👋👋
