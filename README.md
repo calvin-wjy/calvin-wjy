@@ -62,8 +62,4 @@ I am always happy to connect with new people, feel free to reach me out in one o
     </a>
 </p>
 
-<div id="stats" style="display: none">
-  <img src="https://komarev.com/ghpvc/?username=calvin-wjy&color=blue"/>
-</div>
-
 Cheers! 👋👋
