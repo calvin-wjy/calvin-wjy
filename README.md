@@ -1,8 +1,6 @@
 ### Hello Everyone! 👋
 
-My name is Calvin and I love to explore and learn new things. Currently, I am employed as Senior Software Engineer at @DBS Bank. In my free time, I like to do sports to refresh my body and my mind, also love to build software that can help ease people’s day just by a little.
-
-<img src="https://github-readme-stats.vercel.app/api?username=calvin-wjy&show_icons=true" title="Calvin's GitHub Status" />
+My name is Calvin and I love to explore and learn new things. Currently, I am employed as Senior Software Engineer at @DBS Bank.
 
 ---
 
@@ -55,4 +53,4 @@ I am always happy to connect with new people, feel free to reach me out in one o
     </a>
 </p>
 
-Cheers! 👋👋
+Cheers!
