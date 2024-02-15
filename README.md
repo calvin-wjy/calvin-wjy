@@ -36,12 +36,8 @@ My name is Calvin, I love to explore and learn new things.
 </p>
 
 ---
-## Contact Me
-Always happy to connect with new people, feel free to reach me out in one of these platforms below:
+Feel free to reach me:
 <p>
-    <a href="https://github.com/calvin-wjy" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
     <a href="mailto:calvinwijaya.008@gmail.com?subject=[DEV]" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
