@@ -1,6 +1,6 @@
 ### Hello Everyone! 👋
 
-My name is Calvin and I love to explore and learn new things. Currently, I am employed as Senior Software Engineer at @DBS Bank.
+My name is Calvin, I love to explore and learn new things.
 
 ---
 
@@ -37,7 +37,7 @@ My name is Calvin and I love to explore and learn new things. Currently, I am em
 
 ---
 ## Contact Me
-I am always happy to connect with new people, feel free to reach me out in one of these platforms below:
+Always happy to connect with new people, feel free to reach me out in one of these platforms below:
 <p>
     <a href="https://github.com/calvin-wjy" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
